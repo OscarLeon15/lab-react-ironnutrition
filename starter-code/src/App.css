@@ -21,6 +21,10 @@
 .App-intro {
   font-size: large;
 }
+.img-size{
+  width: 200px;
+  height: 200px;
+}
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
